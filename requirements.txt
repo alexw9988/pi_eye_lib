@@ -1,0 +1,5 @@
+minio
+celery
+psycopg2-binary
+SQLAlchemy
+importlib_metadata
